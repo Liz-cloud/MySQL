@@ -1,0 +1,1 @@
+select round(avg(buyPrice),2) as avPrice from products;
